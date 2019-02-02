@@ -60,7 +60,7 @@ class Common extends Controller
 
 		// 公共数据初始化
 		$this->CommonInit();
-	}
+    }
 
     /**
      * 系统初始化
